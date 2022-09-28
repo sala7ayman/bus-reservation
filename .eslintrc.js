@@ -21,6 +21,7 @@ module.exports = {
       quotes: ['error', 'single'],
       'no-console': 1,
       'no-var': 'error',
+      '@typescript-eslint/no-var-requires': 0,
       'prefer-const': 'error',
     },
   };
